@@ -1,64 +1,72 @@
-<h1>Hi, I'm Adriano! <br/> 
-  
-  <h4> Currently working on a good readme file ;D</h4>
-<!--- 
-  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# 👋 Hi there, I'm Adriano Pereira  
 
-<h2>👨‍💻 Software Development Projects:</h2>
+🎓 **Master’s Candidate in Computer Vision** at [PESC – COPPE/UFRJ](https://www.cos.ufrj.br/),  
+exploring **AI for computer vision and embedded systems**.  
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+💻 I’m passionate about combining **machine learning**, **lightweight architectures**,  
+and **computer vision** to design efficient and explainable AI solutions.
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+### 🔬 Research & Technical Interests
 
-<h2> 🤳 Connect with me:</h2>
+- 👁️ **Computer Vision** — Image processing, feature extraction, segmentation, and object detection  
+- 🧠 **Weightless Neural Networks (WiSARD, BTHOWeN, DWN)** — Efficient, interpretable, and memory-based learning models  
+- 🚢 **Maritime Object Detection & Scene Understanding** — Vessel and environmental perception from aerial/drone imagery  
+- ⚙️ **Edge AI and TinyML** — Lightweight neural models for embedded and low-power devices  
+- 🔋 **Energy-Efficient Inference** — Reducing computational and energy costs in AI workloads  
+- 🕶️ **XR and Simulation-Based Training** — Virtual and mixed reality systems for education and industry
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### 🧩 Featured Projects
 
-..
+| Project | Description | Repository |
+|----------|--------------|-------------|
+| 🛰️ **Super-Resolution for Maritime Imagery** | Enhancing vessel visibility using ESRGAN and custom degradation pipelines |[🔗 View](https://github.com/pereira-adriano/maritime-super-resolution)|
+| ⚓ **Ship Detection with WiSARD Networks** | Hybrid lightweight detector combining MobileNet feature extraction and WiSARD classification |[🔗 View](https://github.com/pereira-adriano/Ship_Detection_with_WNN)|
+| 🍇 **Grape Cluster Counting** | Adaptation of probability-map segmentation for vineyard yield estimation | [🔗 View](https://github.com/artsasse/pergola-grape-count/blob/main/grape_cluster_count.ipynb)|
+| 🕶️ **AXR Simuladores (VR Training Startup)** | XR-based immersive training for contract inspection and safety compliance | 🔒 Private |
 
---->
-<!---
-adriano-p/adriano-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Each repository reflects a part of my academic and technical journey from computer vision research to applied VR systems.
 
+---
 
-Here are some ideas to get you started:
+### 🧠 Publications & Academic Work
+- 📄 **“Ship Detection Technique Using Weightless Neural Networks”**, *Fusion 2025* — First Author  
+- 🍇 **“Probability Map-Based Grape Detection and Counting”**, *Fusion 2025* — Co-Author  
+- 📘 **Master’s Dissertation (in progress):** Lightweight models for maritime vessel detection  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .
+---
 
-You can click the Preview link to take a look at your changes.
---->
+### 🧰 Core Technologies
+
+**Languages:** Python, C#, JavaScript, C++  
+**AI/ML:** PyTorch, scikit-learn, wisardpkg, torchwnn  
+**Computer Vision:** OpenCV, Pillow, torchvision  
+**VR/XR Development:** Unity 3D, XR Toolkit, Meta Quest 3  
+**Embedded:** Raspberry Pi 4, Pi Pico W, CUDA  
+**Tools:** Git, GitHub, VS Code, Overleaf, Colab Pro  
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianogp/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/adrianogp)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@codefrompapers)  
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/)  
+
+---
+
+### 📈 GitHub Analytics
+![Adriano’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianogp&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogp&layout=compact&theme=tokyonight)
+
+---
+
+### ☕ Personal Note
+> *“Simplicity and clarity are not luxuries in engineering — they are requirements.”*
+
+---
+
+⭐️ *This profile documents my journey as an academic and developer. Feel free to explore the repositories, follow my progress, and connect!*
